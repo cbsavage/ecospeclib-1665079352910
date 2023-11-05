@@ -1,0 +1,20 @@
+Name: Montebrasite LiAlPO_4(OH)
+Type: Mineral
+Class: Phosphate
+Subclass: None
+Particle Size: Coarse
+Sample No.: P-2A
+Owner: JPL
+Wavelength Range: VSWIR
+Origin: USA, Couth Dakota, Custer County, Custer.
+Collection Date: N/A
+Description: Particle size was 125-500um.Collected by:  Burminco Original ASTER Spectral Library name was jpl.perkin.mineral.phosphate.none.coarse.p02a.spectrum.txt
+Measurement: Hemispherical reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value:  2.5000
+Last X Value:  0.4000
+Number of X Values: 2101
+Additional Information: mineral.phosphate.none.coarse.vswir.p-2a.jpl.perkin.ancillary.txt

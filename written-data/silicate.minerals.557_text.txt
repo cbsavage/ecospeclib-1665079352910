@@ -1,0 +1,20 @@
+Name: Olivine (Fo88) (Fe+2,Mg)2SiO4
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Fine
+Sample No.: olivine_9
+Owner: JHU
+Wavelength Range: TIR
+Origin: South Point, Hawaii via Trude King #GSB
+Collection Date: N/A
+Description: Samples of olivine from an olivine sand beach were optically examined using a petrographic microscope prior to spectral measurements to insure purity of the olivine.  The sample was >98% pure olivine.  It was hand ground and wet sieved into <60 micrometers size range.  Sample preparation was by Trude King, USGS, Denver. Particle size was less than 2 Micrometers. (Isolated tetrahedra); (Olivine Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.powder.olivin9.spectrum.txt
+Measurement: Transmittance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmission (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.fine.tir.olivine_9.jhu.nicolet.ancillary.txt

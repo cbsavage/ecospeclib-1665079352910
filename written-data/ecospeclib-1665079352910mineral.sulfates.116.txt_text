@@ -1,0 +1,20 @@
+Name: Alunite (sodium alunite) NaAl3(SO4)2(OH)6
+Type: Mineral
+Class: Sulfate
+Subclass: None
+Particle Size: Coarse
+Sample No.: alunite_4
+Owner: JHU
+Wavelength Range: TIR
+Origin: Synthetic; Synthesized by Roger Stoffregen and supplied byPhil Bethke (USGS).  
+Collection Date: N/A
+Description: The sample was a white, microcrystalline powder composed of equant or lath-shaped crystallites from 1 to 15 micrometers in largest dimension.Particle size was 0-15 micrometers, but packed powder simulates coarse. Original ASTER Spectral Library name was jhu.nicolet.mineral.sulfate.none.packed.alunit4.spectrum.txt
+Measurement: Bidirectional Reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: None

@@ -1,0 +1,20 @@
+Name: Montmorillonite (Na,Ca)0.33(Al,Mg)2Si4O10(OH)2.nH2O
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: montmor_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Gonzales Co., Texas via the Hunt and Salisbury Collection(#CMS STx-1) (Purchased from the Clay Mineral Society Repository)
+Collection Date: N/A
+Description: The sample was a white, earthy clay. The bulk sample contains calcite, but <2 micrometer size fraction used in the spectral measurements is pure montmorillonite. Particle size was 0-2 micrometers, but packed powder simulates coarse.(Sheet Silicates); (SmectiteGroup) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.packed.montmo2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: none

@@ -1,0 +1,20 @@
+Name: Datolite CaBSiO4(OH)
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Solid
+Sample No.: datolite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Hunt and Salisbury Collection #442B;  Sample fromConnecticut.  
+Collection Date: N/A
+Description: White particulate samples appear to be pure datolite, with <<1% of the grains containing fluid inclusions. Sample had polished surface.(Ring Silicates) (Humite Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.solid.datoli1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.solid.tir.datolite_1.jhu.nicolet.ancillary.txt

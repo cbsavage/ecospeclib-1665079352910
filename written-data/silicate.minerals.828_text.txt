@@ -1,0 +1,20 @@
+Name: Augite (Ca,Na)(Mg,Fe,Al,Ti)(Si,Al)2O6
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Solid
+Sample No.: augite_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Sample from Rozier, near Gorges du Tarn, Tarn, France viathe Smithsonian (sample no. NMNH 120049). 
+Collection Date: N/A
+Description:  The sample was a single 22.31 g portion of a single black crystal, displaying some veining with dolomite, which was completely removed by a warm acid bath.(Pyroxene Group - single chain) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.inosilicate.solid.augite2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.inosilicate.solid.tir.augite_2.jhu.nicolet.ancillary.txt

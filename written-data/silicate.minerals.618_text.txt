@@ -1,0 +1,20 @@
+Name: Wollastonite CaSiO3
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Coarse
+Sample No.: wollasto_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Santa Fe Mine, Pichucalco, Chiapas, Mexico via theSmithsonian (sample no. NMNH 131913)
+Collection Date: N/A
+Description: The sample consisted of a 2 cm x 1 cm x 0.5 cm well-formed crystal  and one large 4 cm x 1 cm x 0.5 cm piece, both gray in color.  One surface of the large piece was dirty and had sulfide inclusions, which were separated by crushing and hand picking.  Under the microscope, some grains showed a little alteration and inclusions or voids along cleavage directions. Particle size was 75 - 250 Micrometers.(Chain Silicates); (Pyroxenoid Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.inosilicate.coarse.wollast1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: None

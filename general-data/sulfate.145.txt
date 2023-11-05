@@ -1,0 +1,9 @@
+[LocalizedFileNames]
+mineral.fine.element.5.txt=@mineral.fine.element.5,0
+mineral.fine.element.2.txt=@mineral.fine.element.2,0
+mineral.medium.element.2.txt=@mineral.medium.element.2,0
+mineral.coarse.element.7.txt=@mineral.coarse.element.7,0
+mineral.coarse.element.2.txt=@mineral.coarse.element.2,0
+mineral.medium.element.5.txt=@mineral.medium.element.5,0
+mineral.medium.element.3.txt=@mineral.medium.element.3,0
+mineral.fine.element.6.txt=@mineral.fine.element.6,0

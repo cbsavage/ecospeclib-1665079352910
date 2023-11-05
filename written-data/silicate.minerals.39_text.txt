@@ -1,0 +1,20 @@
+Name: Biotite K(Mg,Fe+2)3(Al,Fe+3)Si3O10(OH,F)2
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: biotite_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Hunt and Salisbury Collection #28B (purchased from Ward'sNatural Science Establishment).; Sample from Ontario, Canada. 
+Collection Date: N/A
+Description: No solid sample was available.  The particulate samples appeared to be pure brown biotite showing neither inclusions nor impurities under the microscope. Particle size was 74-250 Micrometers.(Mica Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.coarse.biotit2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.phyllosilicate.coarse.tir.biotite_2.jhu.nicolet.ancillary.txt

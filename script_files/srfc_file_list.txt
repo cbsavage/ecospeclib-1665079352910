@@ -1,0 +1,760 @@
+# Files to run:
+# prolly don't need to do anything w this :)
+
+# snow_2.txt           # Io, Callisto, Europa
+# snow_3.txt
+solid.ice.txt        # Callisto, Europa, Ganymede
+fine.frost.txt       # Io, Callisto, Europa, Ganymede
+seafoam.txt          # Europa, Ganymede
+seawater.txt         # Europa, Ganymede
+basalt_0.txt         # Io, Europa
+basalt_1.txt
+basalt_2.txt
+basalt_5.txt
+basalt_7.txt
+basalt_8.txt
+ign.mafic.7.txt      # Io, Europa
+ign.mafic.8.txt
+ign.mafic.9.txt
+ign.mafic.10.txt
+ign.mafic.11.txt
+ign.mafic.12.txt
+ign.mafic.13.txt
+ign.mafic.14.txt
+ign.mafic.15.txt
+ign.mafic.16.txt
+ign.mafic.17.txt
+ign.mafic.18.txt
+ign.mafic.19.txt
+ign.mafic.20.txt
+ign.mafic.21.txt
+ign.mafic.22.txt
+ign.mafic.23.txt
+ign.mafic.24.txt
+ign.mafic.25.txt
+ign.mafic.26.txt
+ign.mafic.27.txt
+ign.mafic.28.txt
+ign.mafic.29.txt
+ign.mafic.30.txt
+ign.mafic.31.txt
+ign.mafic.32.txt
+ign.mafic.33.txt
+ign.mafic.34.txt
+igneous.7.txt        # Io, Europa
+igneous.8.txt
+igneous.9.txt
+igneous.10.txt
+igneous.11.txt
+igneous.12.txt
+igneous.13.txt
+igneous.14.txt
+igneous.15.txt
+igneous.16.txt
+igneous.17.txt
+igneous.18.txt
+igneous.19.txt
+igneous.20.txt
+igneous.21.txt
+igneous.22.txt
+ign.ultramafic.1.txt # Io
+ign.ultramafic.2.txt
+ign.ultramafic.3.txt
+ign.ultramafic.4.txt
+ign.ultramafic.5.txt
+ign.ultramafic.6.txt
+ign.ultramafic.7.txt
+ign.ultramafic.8.txt
+mineral.5.txt        # Io
+mineral.6.txt
+mineral.7.txt
+mineral.8.txt
+mineral.9.txt
+mineral.10.txt
+mineral.11.txt
+mineral.12.txt
+silicate.8.txt	     # Callisto, Ganymede
+silicate.10.txt
+silicate.11.txt
+silicate.12.txt
+silicate.13.txt
+silicate.14.txt
+silicate.15.txt
+silicate.16.txt
+silicate.24.txt
+silicate.25.txt
+silicate.28.txt
+silicate.29.txt
+silicate.30.txt
+silicate.38.txt
+silicate.39.txt
+silicate.41.txt
+silicate.42.txt
+silicate.43.txt
+silicate.51.txt
+silicate.55.txt
+silicate.56.txt
+silicate.65.txt
+silicate.69.txt
+silicate.70.txt
+silicate.79.txt
+silicate.81.txt
+silicate.82.txt
+silicate.83.txt
+silicate.84.txt
+silicate.100.txt
+silicate.101.txt
+silicate.102.txt
+silicate.103.txt
+silicate.104.txt
+silicate.105.txt
+silicate.107.txt
+silicate.110.txt
+silicate.111.txt
+silicate.113.txt
+silicate.139.txt
+silicate.140.txt
+silicate.141.txt
+silicate.142.txt
+silicate.143.txt
+silicate.144.txt
+silicate.145.txt
+silicate.146.txt
+silicate.147.txt
+silicate.148.txt
+silicate.149.txt
+silicate.150.txt
+silicate.151.txt
+silicate.152.txt
+silicate.153.txt
+silicate.154.txt
+silicate.155.txt
+silicate.156.txt
+silicate.157.txt
+silicate.158.txt
+silicate.159.txt
+silicate.236.txt
+silicate.237.txt
+silicate.238.txt
+silicate.239.txt
+silicate.240.txt
+silicate.243.txt
+silicate.273.txt
+silicate.276.txt
+silicate.277.txt
+silicate.278.txt
+silicate.279.txt
+silicate.280.txt
+silicate.281.txt
+silicate.282.txt
+silicate.283.txt
+silicate.284.txt
+silicate.285.txt
+silicate.286.txt
+silicate.287.txt
+silicate.288.txt
+silicate.289.txt
+silicate.290.txt
+silicate.291.txt
+silicate.292.txt
+silicate.293.txt
+silicate.294.txt
+silicate.295.txt
+silicate.296.txt
+silicate.300.txt
+silicate.372.txt
+silicate.373.txt
+silicate.374.txt
+silicate.375.txt
+silicate.376.txt
+silicate.413.txt
+silicate.414.txt
+silicate.415.txt
+silicate.416.txt
+silicate.417.txt
+silicate.418.txt
+silicate.419.txt
+silicate.420.txt
+silicate.421.txt
+silicate.422.txt
+silicate.423.txt
+silicate.424.txt
+silicate.425.txt
+silicate.426.txt
+silicate.427.txt
+silicate.428.txt
+silicate.429.txt
+silicate.430.txt
+silicate.434.txt
+silicate.509.txt
+silicate.510.txt
+silicate.511.txt
+silicate.512.txt
+silicate.513.txt
+silicate.514.txt
+silicate.515.txt
+silicate.516.txt
+silicate.517.txt
+silicate.518.txt
+silicate.519.txt
+silicate.520.txt
+silicate.521.txt
+silicate.522.txt
+silicate.523.txt
+silicate.524.txt
+silicate.525.txt
+silicate.548.txt
+silicate.550.txt
+silicate.551.txt
+silicate.552.txt
+silicate.553.txt
+silicate.554.txt
+silicate.555.txt
+silicate.556.txt
+silicate.557.txt
+silicate.558.txt
+silicate.559.txt
+silicate.560.txt
+silicate.561.txt
+silicate.562.txt
+silicate.563.txt
+silicate.564.txt
+silicate.565.txt
+silicate.566.txt
+silicate.567.txt
+silicate.570.txt
+silicate.645.txt
+silicate.646.txt
+silicate.647.txt
+silicate.648.txt
+silicate.649.txt
+silicate.650.txt
+silicate.651.txt
+silicate.652.txt
+silicate.653.txt
+silicate.654.txt
+silicate.655.txt
+silicate.656.txt
+silicate.657.txt
+silicate.658.txt
+silicate.659.txt
+silicate.663.txt
+silicate.683.txt
+silicate.684.txt
+silicate.686.txt
+silicate.687.txt
+silicate.688.txt
+silicate.689.txt
+silicate.690.txt
+silicate.691.txt
+silicate.692.txt
+silicate.693.txt
+silicate.694.txt
+silicate.695.txt
+silicate.696.txt
+silicate.697.txt
+silicate.698.txt
+silicate.699.txt
+silicate.700.txt
+silicate.701.txt
+silicate.702.txt
+silicate.703.txt
+silicate.704.txt
+silicate.707.txt
+silicate.708.txt
+silicate.781.txt
+silicate.782.txt
+silicate.783.txt
+silicate.784.txt
+silicate.785.txt
+silicate.786.txt
+silicate.787.txt
+silicate.788.txt
+silicate.789.txt
+silicate.790.txt
+silicate.791.txt
+silicate.792.txt
+silicate.793.txt
+silicate.797.txt
+silicate.799.txt
+silicate.809.txt
+silicate.819.txt
+silicate.821.txt
+silicate.822.txt
+silicate.823.txt
+silicate.824.txt
+silicate.825.txt
+silicate.826.txt
+silicate.827.txt
+silicate.828.txt
+silicate.829.txt
+silicate.830.txt
+silicate.831.txt
+silicate.832.txt
+silicate.833.txt
+silicate.834.txt
+silicate.835.txt
+silicate.836.txt
+silicate.837.txt
+silicate.838.txt
+silicate.839.txt
+silicate.842.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+silicate.241.txt
+silicate.378.txt
+silicate.106.txt
+silicate.242.txt
+silicate.379.txt
+silicate.108.txt
+silicate.244.txt
+silicate.380.txt
+silicate.109.txt
+silicate.245.txt
+silicate.381.txt
+silicate.246.txt
+silicate.382.txt
+silicate.247.txt
+silicate.383.txt
+silicate.52.txt
+silicate.248.txt
+silicate.384.txt
+silicate.112.txt
+silicate.249.txt
+silicate.385.txt
+silicate.794.txt
+silicate.386.txt
+silicate.795.txt
+silicate.114.txt
+silicate.250.txt
+silicate.387.txt
+silicate.66.txt
+silicate.796.txt
+silicate.115.txt
+silicate.251.txt
+silicate.388.txt
+silicate.660.txt
+silicate.116.txt
+silicate.252.txt
+silicate.389.txt
+silicate.661.txt
+silicate.798.txt
+silicate.117.txt
+silicate.253.txt
+silicate.526.txt
+silicate.662.txt
+silicate.118.txt
+silicate.254.txt
+silicate.390.txt
+silicate.527.txt
+silicate.119.txt
+silicate.255.txt
+silicate.391.txt
+silicate.528.txt
+silicate.664.txt
+silicate.80.txt
+silicate.256.txt
+silicate.392.txt
+silicate.529.txt
+silicate.665.txt
+silicate.800.txt
+silicate.120.txt
+silicate.257.txt
+silicate.393.txt
+silicate.53.txt
+silicate.666.txt
+silicate.801.txt
+silicate.121.txt
+silicate.258.txt
+silicate.394.txt
+silicate.530.txt
+silicate.667.txt
+silicate.802.txt
+silicate.122.txt
+silicate.259.txt
+silicate.395.txt
+silicate.531.txt
+silicate.668.txt
+silicate.803.txt
+silicate.123.txt
+silicate.26.txt
+silicate.396.txt
+silicate.532.txt
+silicate.669.txt
+silicate.804.txt
+silicate.124.txt
+silicate.260.txt
+silicate.397.txt
+silicate.533.txt
+silicate.67.txt
+silicate.805.txt
+silicate.125.txt
+silicate.261.txt
+silicate.398.txt
+silicate.534.txt
+silicate.670.txt
+silicate.806.txt
+silicate.126.txt
+silicate.262.txt
+silicate.399.txt
+silicate.535.txt
+silicate.671.txt
+silicate.807.txt
+silicate.127.txt
+silicate.263.txt
+silicate.40.txt
+silicate.536.txt
+silicate.672.txt
+silicate.808.txt
+silicate.128.txt
+silicate.264.txt
+silicate.400.txt
+silicate.537.txt
+silicate.673.txt
+silicate.129.txt
+silicate.265.txt
+silicate.401.txt
+silicate.538.txt
+silicate.674.txt
+silicate.266.txt
+silicate.402.txt
+silicate.539.txt
+silicate.675.txt
+silicate.810.txt
+silicate.130.txt
+silicate.267.txt
+silicate.403.txt
+silicate.54.txt
+silicate.676.txt
+silicate.811.txt
+silicate.131.txt
+silicate.268.txt
+silicate.404.txt
+silicate.540.txt
+silicate.677.txt
+silicate.812.txt
+silicate.132.txt
+silicate.269.txt
+silicate.405.txt
+silicate.541.txt
+silicate.678.txt
+silicate.813.txt
+silicate.133.txt
+silicate.27.txt
+silicate.406.txt
+silicate.542.txt
+silicate.679.txt
+silicate.814.txt
+silicate.134.txt
+silicate.270.txt
+silicate.407.txt
+silicate.543.txt
+silicate.68.txt
+silicate.815.txt
+silicate.135.txt
+silicate.271.txt
+silicate.408.txt
+silicate.544.txt
+silicate.680.txt
+silicate.816.txt
+silicate.136.txt
+silicate.272.txt
+silicate.409.txt
+silicate.545.txt
+silicate.681.txt
+silicate.817.txt
+silicate.137.txt
+silicate.546.txt
+silicate.682.txt
+silicate.818.txt
+silicate.138.txt
+silicate.274.txt
+silicate.410.txt
+silicate.547.txt
+
+silicate.275.txt
+silicate.411.txt
+silicate.412.txt
+silicate.549.txt
+silicate.685.txt
+silicate.820.txt
+silicate.431.txt
+silicate.568.txt
+silicate.432.txt
+silicate.569.txt
+silicate.705.txt
+silicate.840.txt
+silicate.160.txt
+silicate.297.txt
+silicate.433.txt
+silicate.57.txt
+silicate.706.txt
+silicate.841.txt
+silicate.161.txt
+silicate.298.txt
+silicate.162.txt  silicate.299.txt  silicate.435.txt  silicate.571.txt    silicate.843.txt
+silicate.163.txt     silicate.436.txt  silicate.572.txt  silicate.709.txt  silicate.844.txt
+silicate.164.txt    silicate.437.txt  silicate.573.txt  silicate.71.txt   silicate.845.txt
+silicate.165.txt
+silicate.301.txt
+silicate.438.txt
+silicate.574.txt
+silicate.710.txt
+silicate.846.txt
+silicate.166.txt
+silicate.302.txt
+silicate.439.txt
+silicate.575.txt
+silicate.711.txt
+silicate.847.txt
+silicate.167.txt
+silicate.303.txt
+silicate.44.txt
+silicate.576.txt
+silicate.712.txt
+silicate.848.txt
+silicate.168.txt
+silicate.304.txt
+silicate.440.txt
+silicate.577.txt
+silicate.713.txt
+silicate.849.txt
+silicate.169.txt  silicate.305.txt  silicate.441.txt  silicate.578.txt  silicate.714.txt  silicate.85.txt
+silicate.17.txt   silicate.306.txt  silicate.442.txt  silicate.579.txt  silicate.715.txt  silicate.850.txt
+silicate.170.txt  silicate.307.txt  silicate.443.txt  silicate.58.txt   silicate.716.txt  silicate.851.txt
+silicate.171.txt  silicate.308.txt  silicate.444.txt  silicate.580.txt  silicate.717.txt  silicate.852.txt
+silicate.172.txt  silicate.309.txt  silicate.445.txt  silicate.581.txt  silicate.718.txt  silicate.853.txt
+silicate.173.txt  silicate.31.txt   silicate.446.txt  silicate.582.txt  silicate.719.txt  silicate.854.txt
+silicate.174.txt  silicate.310.txt  silicate.447.txt  silicate.583.txt  silicate.72.txt   silicate.855.txt
+silicate.175.txt  silicate.311.txt  silicate.448.txt  silicate.584.txt  silicate.720.txt  silicate.856.txt
+silicate.176.txt  silicate.312.txt  silicate.449.txt  silicate.585.txt  silicate.721.txt  silicate.857.txt
+silicate.177.txt  silicate.313.txt  silicate.45.txt   silicate.586.txt  silicate.722.txt  silicate.858.txt
+silicate.178.txt  silicate.314.txt  silicate.450.txt  silicate.587.txt  silicate.723.txt  silicate.859.txt
+silicate.179.txt  silicate.315.txt  silicate.451.txt  silicate.588.txt  silicate.724.txt  silicate.86.txt
+silicate.18.txt   silicate.316.txt  silicate.452.txt  silicate.589.txt  silicate.725.txt  silicate.860.txt
+silicate.180.txt  silicate.317.txt  silicate.453.txt  silicate.59.txt   silicate.726.txt  silicate.861.txt
+silicate.181.txt  silicate.318.txt  silicate.454.txt  silicate.590.txt  silicate.727.txt  silicate.862.txt
+silicate.182.txt  silicate.319.txt  silicate.455.txt  silicate.591.txt  silicate.728.txt  silicate.863.txt
+silicate.183.txt  silicate.32.txt   silicate.456.txt  silicate.592.txt  silicate.729.txt  silicate.864.txt
+silicate.184.txt  silicate.320.txt  silicate.457.txt  silicate.593.txt  silicate.73.txt   silicate.865.txt
+silicate.185.txt  silicate.321.txt  silicate.458.txt  silicate.594.txt  silicate.730.txt  silicate.866.txt
+silicate.186.txt  silicate.322.txt  silicate.459.txt  silicate.595.txt  silicate.731.txt  silicate.867.txt
+silicate.187.txt  silicate.323.txt  silicate.46.txt   silicate.596.txt  silicate.732.txt  silicate.868.txt
+silicate.188.txt  silicate.324.txt  silicate.460.txt  silicate.597.txt  silicate.733.txt  silicate.869.txt
+silicate.189.txt  silicate.325.txt  silicate.461.txt  silicate.598.txt  silicate.734.txt  silicate.87.txt
+silicate.19.txt   silicate.326.txt  silicate.462.txt  silicate.599.txt  silicate.735.txt  silicate.870.txt
+silicate.190.txt  silicate.327.txt  silicate.463.txt  silicate.60.txt   silicate.736.txt  silicate.871.txt
+silicate.191.txt  silicate.328.txt  silicate.464.txt  silicate.600.txt  silicate.737.txt  silicate.872.txt
+silicate.192.txt  silicate.329.txt  silicate.465.txt  silicate.601.txt  silicate.738.txt  silicate.873.txt
+silicate.193.txt  silicate.33.txt   silicate.466.txt  silicate.602.txt  silicate.739.txt  silicate.874.txt
+silicate.194.txt  silicate.330.txt  silicate.467.txt  silicate.603.txt  silicate.74.txt   silicate.875.txt
+silicate.195.txt  silicate.331.txt  silicate.468.txt  silicate.604.txt  silicate.740.txt  silicate.876.txt
+silicate.196.txt  silicate.332.txt  silicate.469.txt  silicate.605.txt  silicate.741.txt  silicate.877.txt
+silicate.197.txt  silicate.333.txt  silicate.47.txt   silicate.606.txt  silicate.742.txt  silicate.878.txt
+silicate.198.txt  silicate.334.txt  silicate.470.txt  silicate.607.txt  silicate.743.txt  silicate.879.txt
+silicate.199.txt  silicate.335.txt  silicate.471.txt  silicate.608.txt  silicate.744.txt  silicate.88.txt
+silicate.20.txt   silicate.336.txt  silicate.472.txt  silicate.609.txt  silicate.745.txt  silicate.880.txt
+silicate.200.txt  silicate.337.txt  silicate.473.txt  silicate.61.txt   silicate.746.txt  silicate.881.txt
+silicate.201.txt  silicate.338.txt  silicate.474.txt  silicate.610.txt  silicate.747.txt  silicate.882.txt
+silicate.202.txt  silicate.339.txt  silicate.475.txt  silicate.611.txt  silicate.748.txt  silicate.883.txt
+silicate.203.txt  silicate.34.txt   silicate.476.txt  silicate.612.txt  silicate.749.txt  silicate.884.txt
+silicate.204.txt  silicate.340.txt  silicate.477.txt  silicate.613.txt  silicate.75.txt   silicate.885.txt
+silicate.205.txt  silicate.341.txt  silicate.478.txt  silicate.614.txt  silicate.750.txt  silicate.886.txt
+silicate.206.txt  silicate.342.txt  silicate.479.txt  silicate.615.txt  silicate.751.txt  silicate.887.txt
+silicate.207.txt  silicate.343.txt  silicate.48.txt   silicate.616.txt  silicate.752.txt  silicate.888.txt
+silicate.208.txt  silicate.344.txt  silicate.480.txt  silicate.617.txt  silicate.753.txt  silicate.889.txt
+silicate.209.txt  silicate.345.txt  silicate.481.txt  silicate.618.txt  silicate.754.txt  silicate.89.txt
+silicate.21.txt   silicate.346.txt  silicate.482.txt  silicate.619.txt  silicate.755.txt  silicate.890.txt
+silicate.210.txt  silicate.347.txt  silicate.483.txt  silicate.62.txt   silicate.756.txt  silicate.891.txt
+silicate.211.txt  silicate.348.txt  silicate.484.txt  silicate.620.txt  silicate.757.txt  silicate.892.txt
+silicate.212.txt  silicate.349.txt  silicate.485.txt  silicate.621.txt  silicate.758.txt  silicate.893.txt
+silicate.213.txt  silicate.35.txt   silicate.486.txt  silicate.622.txt  silicate.759.txt  silicate.894.txt
+silicate.214.txt  silicate.350.txt  silicate.487.txt  silicate.623.txt  silicate.76.txt   silicate.895.txt
+silicate.215.txt  silicate.351.txt  silicate.488.txt  silicate.624.txt  silicate.760.txt  silicate.896.txt
+silicate.216.txt  silicate.352.txt  silicate.489.txt  silicate.625.txt  silicate.761.txt  silicate.897.txt
+silicate.217.txt  silicate.353.txt  silicate.49.txt   silicate.626.txt  silicate.762.txt  silicate.898.txt
+silicate.218.txt  silicate.354.txt  silicate.490.txt  silicate.627.txt  silicate.763.txt  silicate.899.txt
+silicate.219.txt  silicate.355.txt  silicate.491.txt  silicate.628.txt  silicate.764.txt  silicate.9.txt
+silicate.22.txt   silicate.356.txt  silicate.492.txt  silicate.629.txt  silicate.765.txt  silicate.90.txt
+silicate.220.txt  silicate.357.txt  silicate.493.txt  silicate.63.txt   silicate.766.txt  silicate.900.txt
+silicate.221.txt  silicate.358.txt  silicate.494.txt  silicate.630.txt  silicate.767.txt  silicate.901.txt
+silicate.222.txt  silicate.359.txt  silicate.495.txt  silicate.631.txt  silicate.768.txt  silicate.902.txt
+silicate.223.txt  silicate.36.txt   silicate.496.txt  silicate.632.txt  silicate.769.txt  silicate.903.txt
+silicate.224.txt  silicate.360.txt  silicate.497.txt  silicate.633.txt  silicate.77.txt   silicate.904.txt
+silicate.225.txt  silicate.361.txt  silicate.498.txt  silicate.634.txt  silicate.770.txt  silicate.91.txt
+silicate.226.txt  silicate.362.txt  silicate.499.txt  silicate.635.txt  silicate.771.txt  silicate.92.txt
+silicate.227.txt  silicate.363.txt  silicate.50.txt   silicate.636.txt  silicate.772.txt  silicate.93.txt
+silicate.228.txt  silicate.364.txt  silicate.500.txt  silicate.637.txt  silicate.773.txt  silicate.94.txt
+silicate.229.txt  silicate.365.txt  silicate.501.txt  silicate.638.txt  silicate.774.txt  silicate.95.txt
+silicate.23.txt   silicate.366.txt  silicate.502.txt  silicate.639.txt  silicate.775.txt  silicate.96.txt
+silicate.230.txt  silicate.367.txt  silicate.503.txt  silicate.64.txt   silicate.776.txt  silicate.97.txt
+silicate.231.txt
+silicate.368.txt
+silicate.504.txt
+silicate.640.txt
+silicate.777.txt
+silicate.98.txt
+silicate.232.txt
+silicate.369.txt
+silicate.505.txt
+silicate.641.txt
+silicate.778.txt
+silicate.99.txt
+silicate.233.txt
+silicate.37.txt
+silicate.506.txt
+silicate.642.txt
+silicate.779.txt
+silicate.234.txt
+silicate.370.txt
+silicate.507.txt
+silicate.643.txt
+silicate.78.txt
+silicate.235.txt
+silicate.371.txt
+silicate.508.txt
+silicate.644.txt
+silicate.780.txt
+lunar.soil.1.txt # Callisto
+lunar.soil.2.txt
+lunar.soil.3.txt
+lunar.soil.4.txt
+lunar.soil.5.txt
+lunar.soil.6.txt
+lunar.soil.7.txt
+lunar.soil.8.txt
+lunar.soil.9.txt
+lunar.soil.12.txt
+lunar.soil.14.txt
+lunar.soil.15.txt
+lunar.soil.16.txt
+lunar.soil.17.txt
+lunar.soil.18.txt
+lunar.soil.19.txt
+lunar.soil.20.txt
+odnr.cndrt.1.txt # Callisto
+odnr.cndrt.2.txt
+odnr.cndrt.3.txt
+odnr.cndrt.4.txt
+odnr.cndrt.5.txt
+odnr.cndrt.6.txt
+odnr.cndrt.7.txt
+odnr.cndrt.8.txt
+odnr.cndrt.9.txt
+odnr.cndrt.10.txt
+odnr.cndrt.11.txt
+odnr.cndrt.12.txt
+odnr.cndrt.13.txt
+odnr.cndrt.14.txt
+odnr.cndrt.15.txt
+odnr.cndrt.16.txt
+odnr.cndrt.17.txt
+odnr.cndrt.18.txt
+odnr.cndrt.19.txt
+sulfate.1.txt # Ganymede
+sulfate.130.txt
+sulfate.39.txt
+sulfate.70.txt
+sulfate.10.txt
+sulfate.131.txt
+sulfate.4.txt
+sulfate.71.txt
+sulfate.100.txt
+sulfate.132.txt
+sulfate.40.txt
+sulfate.72.txt
+sulfate.101.txt
+sulfate.133.txt
+sulfate.41.txt
+sulfate.73.txt
+sulfate.102.txt
+sulfate.134.txt
+sulfate.42.txt
+sulfate.74.txt
+sulfate.103.txt
+sulfate.135.txt
+sulfate.43.txt
+sulfate.75.txt
+sulfate.104.txt
+sulfate.136.txt
+sulfate.44.txt
+sulfate.76.txt
+sulfate.105.txt
+sulfate.137.txt
+sulfate.45.txt
+sulfate.77.txt
+sulfate.106.txt
+sulfate.14.txt
+sulfate.46.txt
+sulfate.78.txt
+sulfate.107.txt
+sulfate.15.txt
+sulfate.47.txt
+sulfate.79.txt
+sulfate.108.txt
+sulfate.16.txt
+sulfate.48.txt
+sulfate.8.txt
+sulfate.109.txt
+sulfate.17.txt
+sulfate.49.txt
+sulfate.80.txt
+sulfate.11.txt
+sulfate.18.txt
+sulfate.5.txt
+sulfate.81.txt
+sulfate.110.txt
+sulfate.19.txt
+sulfate.50.txt
+sulfate.82.txt
+sulfate.111.txt  sulfate.2.txt    sulfate.51.txt  sulfate.83.txt
+sulfate.112.txt  sulfate.20.txt   sulfate.52.txt  sulfate.84.txt
+sulfate.113.txt  sulfate.21.txt   sulfate.53.txt  sulfate.85.txt
+sulfate.114.txt  sulfate.22.txt   sulfate.54.txt  sulfate.86.txt
+sulfate.115.txt  sulfate.23.txt   sulfate.55.txt  sulfate.87.txt
+sulfate.116.txt  sulfate.24.txt   sulfate.56.txt  sulfate.88.txt
+sulfate.117.txt  sulfate.25.txt   sulfate.57.txt  sulfate.89.txt
+sulfate.118.txt  sulfate.26.txt   sulfate.58.txt  sulfate.9.txt
+sulfate.119.txt  sulfate.27.txt   sulfate.59.txt  sulfate.90.txt
+sulfate.12.txt   sulfate.28.txt   sulfate.6.txt   sulfate.91.txt
+sulfate.120.txt  sulfate.29.txt   sulfate.60.txt  sulfate.92.txt
+sulfate.121.txt  sulfate.3.txt    sulfate.61.txt  sulfate.93.txt
+sulfate.122.txt  sulfate.30.txt   sulfate.62.txt  sulfate.94.txt
+sulfate.123.txt  sulfate.31.txt   sulfate.63.txt  sulfate.95.txt
+sulfate.124.txt  sulfate.32.txt   sulfate.64.txt  sulfate.96.txt
+sulfate.125.txt
+sulfate.33.txt
+sulfate.65.txt
+sulfate.97.txt
+sulfate.126.txt
+sulfate.34.txt
+sulfate.66.txt
+sulfate.98.txt
+sulfate.127.txt
+sulfate.35.txt
+sulfate.67.txt
+sulfate.99.txt
+sulfate.128.txt
+sulfate.36.txt
+sulfate.68.txt
+sulfate.129.txt
+sulfate.37.txt
+sulfate.69.txt
+sulfate.13.txt
+sulfate.38.txt
+sulfate.7.txt
+
+
+
+

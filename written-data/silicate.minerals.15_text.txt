@@ -1,0 +1,20 @@
+Name: Almandine Fe3+2Al2(SiO4)3
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Solid
+Sample No.: almandine_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Sample from Stikine River, Fort Wrangell, Alaska, USA via theSmithsonian (sample no. NMNH 104490-7).
+Collection Date: N/A
+Description: The sample was a single deep maroon crystal about 2 cm in diameter with good crystal faces, except for one fractured edge.  Weight was 17 g.  A thin, soft, almost transparent film was buffed off crystal faces.  Microscopic examination showed contamination by about 1% opaques and 1% quartz. (Isolated Tetrahedra) (Garnet Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.solid.almand1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.solid.tir.almandine_1.jhu.nicolet.ancillary.txt

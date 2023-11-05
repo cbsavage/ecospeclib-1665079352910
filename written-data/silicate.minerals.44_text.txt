@@ -1,0 +1,20 @@
+Name: Illite/smectite (K,H3O)(Al,Mg,Fe)2(Si,Al)4 O10 [(OH)2,H2O]
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: illsmec_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Cameron, Arizona; from Hunt and Salisbury Collection #31(purchased from Ward's Natural Science Establishment); 
+Collection Date: N/A
+Description: The sample was a light tan, earthy clay. Called "montmorillonite" by Ward's, the bulk sample and the less than 2 micrometers particle-size separate are pure illite/smectite, with 35% illite layers. Particle size was 0-2 micrometers, but packed powder simulates coarse.(Sheet Silicates) (Mica Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.packed.illsme1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: none

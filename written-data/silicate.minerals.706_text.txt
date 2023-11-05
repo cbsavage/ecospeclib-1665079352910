@@ -1,0 +1,20 @@
+Name: Hornblende Ca2(Fe+2,Mg)4Al(Si7Al)O22(OH,F)2
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Fine
+Sample No.: hornblen_3
+Owner: JHU
+Wavelength Range: TIR
+Origin: Calumet Island, Ottowa River, Canada via the Smithsaonian(sample no. NMNH 78662)
+Collection Date: N/A
+Description: Sample was a cluster of several large, deep green crystals. A small amount of contamination was found in thin veins along cleavage planes. Microscopic examination revealed newr purity with less than 1% impurities of low index veins. An index of refraction of <1.64 and pleochroism (green to greenish brown) indicated that this is probably magnesian hornblende. Particle size was Less than 2 micrometers. (Amphibole Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.inosilicate.powder.hornbl3.spectrum.txt
+Measurement: transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:transmittance (percent)
+First X Value: 25.0440
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.inosilicate.fine.tir.hornblen_3.jhu.nicolet.ancillary.txt

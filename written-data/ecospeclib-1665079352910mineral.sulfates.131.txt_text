@@ -1,0 +1,20 @@
+Name: Gypsum (selenite) CaSO4.2H2O
+Type: Mineral
+Class: Sulfate
+Subclass: None
+Particle Size: Solid
+Sample No.: gypsum_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Washington Co., Vermont, from Hunt and Salisbury Collection#333B.
+Collection Date: N/A
+Description: The sample appears to be pure semi-transparent gypsum. Original ASTER Spectral Library name was jhu.nicolet.mineral.sulfate.none.solid.gypsum2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.sulfate.none.solid.tir.gypsum_2.jhu.nicolet.ancillary.txt

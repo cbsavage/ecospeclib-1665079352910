@@ -1,0 +1,20 @@
+Name: Heulandite (Na,Ca)2-3Al3(Al,Si)2Si13O36.12H2O
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Solid
+Sample No.: heulan_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Gobel, Oregon via Joe Taggart, USGS, Denver, Colorado.
+Collection Date: N/A
+Description: The sample is composed of 1 cm diameter, pearly, translucent crystals in a white, fine-grained groundmass. Crystals were separated by hand and appear to be pure heulandite. Sample had cleavage face.(Zeolite Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.solid.heulan2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.solid.tir.heulan_2.jhu.nicolet.ancillary.txt

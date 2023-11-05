@@ -1,0 +1,20 @@
+Name: Cerussite, PbCO3
+Type: Mineral
+Class: Carbonate
+Subclass: None
+Particle Size: Coarse
+Sample No.: cerussite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Sample from Australia; donated by Norma Vergo.
+Collection Date: N/A
+Description: The sample was a light tan irregular mass and appeared to be a pure carbonate, both in hand specimen and under the microscope. Particle size was 74-250 Micrometers. Original ASTER Spectral Library name was jhu.nicolet.mineral.carbonate.none.coarse.ceruss1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.carbonate.none.coarse.tir.cerussite_1.jhu.nicolet.ancillary.txt

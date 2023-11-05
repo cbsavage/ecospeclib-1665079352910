@@ -1,0 +1,20 @@
+Name: Labradorite (Na,Ca)Al(Al,Si)Si2O8
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Fine
+Sample No.: labrador_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Lake County, Oregon, acquired from the Smithsonian (sampleno. NMNH 115500) via Dave Stewart, USGS
+Collection Date: N/A
+Description: The sample consisted of a 2 cm x 1 cm x 0.2 cm, 0.536 g portion, of a single transparent crystal.  The fragment seemed to have been sawn on one side.  A very, very small amount of iron oxide stain could be seen on the surface of the fragment and still less on the inside.  No impurities were detected under the microscope. Particle size was Less than 2 micrometers.(Framework Silicates); (Feldspar Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.powder.labrad1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittence (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.fine.tir.labrador_1.jhu.nicolet.ancillary.txt

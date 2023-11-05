@@ -1,0 +1,20 @@
+Name: Dolomite CaMg(CO3)2
+Type: Mineral
+Class: Carbonate
+Subclass: None
+Particle Size: Fine
+Sample No.: dolomite_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Hunt and Salisbury Collection #102B;  Sample from Lee,Massachusetts.
+Collection Date: N/A
+Description: The sample appeared to be pure white dolomite in hand specimen and under the microscope. Particle size was Less than 2 Micrometers. Original ASTER Spectral Library name was jhu.nicolet.mineral.carbonate.none.powder.dolomi2.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.carbonate.none.fine.tir.dolomite_2.jhu.nicolet.ancillary.txt

@@ -1,0 +1,20 @@
+Name: Olivine (Fo92) (Fe+2,Mg)2SiO4
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Coarse
+Sample No.: olivine_11
+Owner: JHU
+Wavelength Range: TIR
+Origin: Chavira olivine-peridot mine, near Camargo, Chihuahua,Mexico via the Smithsonian (sample no. NMNH 137044)
+Collection Date: N/A
+Description: Sample consisted of many 0.5 cm particles, green in color, appearing pure, plus one large fragment.  The large (1.3 cm x 1 cm) fragment seemed to contain much of contamination, probably diopside, and was discarded.  The hand-picked sample seemed quite clean, except for one grain of pyroxene seen under the microscope and a small amount of limonitic staining on some grains. Particle size was 75 - 250  Micrometers. (Isolated tetrahedra); (Olivine Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.coarse.olivi11.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.coarse.tir.olivine_11.jhu.nicolet.ancillary.txt

@@ -1,0 +1,20 @@
+Name: Topaz Al2SiO4(F,OH)2
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Solid
+Sample No.: topaz_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Rhondonia, Brazil via Don Hoover, USGS
+Collection Date: N/A
+Description: The sample was a 1 cm x 1 cm x 1 cm fragment of a single crystal.  It was colorless and appeared free of fluid inclusions under the microscope (however, the presence of a CO2 band at 4.3 micrometers in the infrared reflectance spectra of particulate samples shows that fluid inclusions are present). Sample was cleavage face.(Isolated tetrahedra) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.solid.topaz1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.solid.tir.topaz_1.jhu.nicolet.ancillary.txt

@@ -1,0 +1,20 @@
+Name: Hornblende Ca2(Fe+2,Mg)4Al(Si7Al)O22(OH,F)2
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Fine
+Sample No.: hornblen_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Gore Mountain, New York via Hunt and Salisbury Collection,#177B (Purchased from Ward's Natural Science Establishment)
+Collection Date: N/A
+Description:  The specimen was a cluster of very dark green single crystals half a centimeter to one centimeter in length and almost as wide.(Amphibole Group)Particle size was Less than 2 micrometers. Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.inosilicate.powder.hornbl1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.inosilicate.fine.tir.hornblen_1.jhu.nicolet.ancillary.txt

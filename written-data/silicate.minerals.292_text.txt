@@ -1,0 +1,20 @@
+Name: Phlogopite KMg3Si3Al010(F,OH)2
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Solid
+Sample No.: phlogop_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Burgess, Ontario, Canada via the Smithsonian (sample no.NMNH 124258, obtained from Bruce Hemingway, USGS)
+Collection Date: N/A
+Description: The hand sample consisted of rectangular sheets displaying the typical coppery luster of phlogopite.  Microscopic examination showed the sample to be pure.(Sheet Silicates); (Mica Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.solid.phlogo1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.phyllosilicate.solid.tir.phlogop_1.jhu.nicolet.ancillary.txt

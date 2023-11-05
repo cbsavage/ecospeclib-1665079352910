@@ -1,0 +1,20 @@
+Name: Spessartine Mn3Al2 (SiO4)3
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Fine
+Sample No.: spessart_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Rutherford #2 mine, Amelia, Amelia Co., Virginia, USA via theSmithsonian (sample no. NMNH 114143)
+Collection Date: N/A
+Description: The sample consisted of a group of 3 mm and smaller diameter reddish crystals.  A few clear crystals adhering to the grains were picked off and microscopic examination showed the remaining sample to be quite pure. Particle size was less than 2 Micrometers.(Framework silicates); GarnetGroup Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.powder.spessa2.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.fine.tir.spessart_2.jhu.nicolet.ancillary.txt

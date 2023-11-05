@@ -1,0 +1,20 @@
+Name: Epsomite MgSO4·7H2O
+Type: Mineral
+Class: Sulfate
+Subclass: None
+Particle Size: Coarse
+Sample No.: Epsomite
+Owner: USGS
+Wavelength Range: All
+Origin: Produced in lab
+Collection Date: N/A
+Description: Synthetic. Sample was unsieved powder. Original ASTER Spectral Library name was usgs.perknic.mineral.sulfate.none.coarse.epsomite.spectrum.txt
+Measurement: Directional Hemispherical Reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 14.0510
+Last X Value:  0.4000
+Number of X Values: 2231
+Additional Information: none

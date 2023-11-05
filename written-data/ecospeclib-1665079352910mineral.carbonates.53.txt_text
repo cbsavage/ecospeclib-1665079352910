@@ -1,0 +1,20 @@
+Name: Aragonite CaCO3
+Type: Mineral
+Class: Carbonate
+Subclass: None
+Particle Size: Fine
+Sample No.: aragonite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Sample from Horenec, Bilina, Cechy, Czechoslovakia, viaSmithsonian (sample no. NMNH B10083). 
+Collection Date: N/A
+Description: The sample was composed of two transparent, colorless pieces: one prismatic, 1.8 cm x 1.8 cm x 2 cm, and weighing about 2 g; the other a 5 mm x 5 mm x 5 mm cleavage fragment weighing 0.65 g.  No impurities were detected in hand sample or microscopically. Particle size was less than 2 Micrometers. Original ASTER Spectral Library name was jhu.nicolet.mineral.carbonate.none.powder.aragon1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: None

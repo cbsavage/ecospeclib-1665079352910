@@ -1,0 +1,3 @@
+[LocalizedFileNames]
+igneous.intermediate.fine.andesite.2.txt=@igneous.intermediate.fine.andesite.2,0
+igneous.intermediate.solid.andesite.2.txt=@igneous.intermediate.solid.andesite.2,0

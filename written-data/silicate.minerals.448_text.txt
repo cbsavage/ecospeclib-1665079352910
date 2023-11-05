@@ -1,0 +1,20 @@
+Name: Andesine (Feldspar) (NaSi,CaAl)AlSi_2O_8
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Coarse
+Sample No.: TS-4A
+Owner: JPL
+Wavelength Range: VSWIR
+Origin: 
+Collection Date: N/A
+Description: Particle size was 125-500um.Collected by JPL Original ASTER Spectral Library name was jpl.beckman.mineral.silicate.tectosilicate.coarse.ts04a.spectrum.txt
+Measurement: Hemispherical reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value:  0.4000
+Last X Value:  2.5000
+Number of X Values: 826
+Additional Information: mineral.silicate.tectosilicate.coarse.vswir.ts-4a.jpl.beckman.ancillary.txt

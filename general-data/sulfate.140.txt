@@ -1,0 +1,9 @@
+[LocalizedFileNames]
+igneous.ultramafic.rock.8.txt=@igneous.ultramafic.rock.8,0
+igneous.ultramafic.rock.7.txt=@igneous.ultramafic.rock.7,0
+igneous.ultramafic.rock.6.txt=@igneous.ultramafic.rock.6,0
+igneous.ultramafic.rock.5.txt=@igneous.ultramafic.rock.5,0
+igneous.ultramafic.rock.4.txt=@igneous.ultramafic.rock.4,0
+igneous.ultramafic.rock.3.txt=@igneous.ultramafic.rock.3,0
+igneous.ultramafic.rock.2.txt=@igneous.ultramafic.rock.2,0
+igneous.ultramafic.rock.1.txt=@igneous.ultramafic.rock.1,0

@@ -1,0 +1,20 @@
+Name: Topaz Al2SiO4(F,OH)2
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Coarse
+Sample No.: topaz_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Ouro Preto, Brazil via Don Hoover, USGS
+Collection Date: N/A
+Description: The sample consisted of several orange-colored, rounded (tumbled) grains, each about 1 cm in diameter.  Under the microscope, the sample appeared to be pure topaz with abundant fluid inclusions. Particle size was 75 - 250  Micrometers.(Isolated tetrahedra) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.coarse.topaz2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.coarse.tir.topaz_2.jhu.nicolet.ancillary.txt

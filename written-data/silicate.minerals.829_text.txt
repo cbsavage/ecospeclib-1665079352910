@@ -1,0 +1,20 @@
+Name: Bustamite (Mn,Ca)3Si3O9
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Solid
+Sample No.: bustamite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Smithsonian NMNH R3099 Sample from Franklin, New Jersey.
+Collection Date: N/A
+Description:  The sample was a prismatic piece about 3 cm in length and 1-2 cm wide. It appeared pure except for a few grains of calcite that were removed. Under the petrographic microscope about 2% of grains show some light alteration.  The portion chosen for probe analysis was comprised of clean, homogeneous grains.  The sample was treated with acetic acid to remove any remaining calcite. (Chain Silicates) (Pyroxenoid Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.inosilicate.solid.bustam1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.inosilicate.solid.tir.bustamite_1.jhu.nicolet.ancillary.txt

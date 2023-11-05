@@ -1,0 +1,246 @@
+JUPITER MOON RESEARCH W/ KARALIDI
+
+the thing: 55942
+
+EXAMPLE old name: water.snow.mediumgranular.medium.all.medgran_snw_.jhu.becknic.spectrum.txt
+new name: medium.granular.snow
+
+WE'RE LOOKING AT:
+       surface properties
+       how reflection changes
+       galilean moons
+
+!!!DO NOT USE RM AT ALL!!!
+
+Planet Science JC: PSB 160
+
+google scholar is another good resource for literature research
+
+aster > data > spectral library > ecostress > download
+
+flip data, rename file, upload *again*
+greatest to least => least to greatest
+salinities affecting spectrum
+Python code to change name for me
+use import OS 
+
+1/17/23:
+REVIEW CLASS NOTES TO DO BELOW:
+make list with all file names open w load txt skip row and read data and save with new name np.save.txt
+
+command try except
+
+some nerd shit: io and europa > all other jovian moons
+
+"math speak" - dr kaden, 2023
+
+IMPORT MATPLOTLIB on py doc
+
+
+
+5/2/23:
+to find which surfaces align better with the graphs 
+could blend surfaces
+
+5/26/23:
+should spectra be included in paper if i write one??
+Europa: ice, frost?
+Ganymede: sulfur?, ice, frost?
+Callisto: ice, frost?
+Io: sulfur, igneous
+
+5/31/23:
+do i make spectral graphs for different areas on surface or entire surface??
+is only one paper enough to find surface composition???? most likely
+is reflectance info important?? YES
+
+7/16/23:
+calcium chloride
+sulfuric acid
+ammonia
+dry or hydrous silicates
+iron core most likely
+
+Io: sort thru silicates to find igneous ones
+
+
+7/19/2023:
+rhyolite
+dacite
+quatrz andesite
+
+
+7/30/23:
+snows:
+fine: 1
+medium: 2
+coarse: 3
+
+
+slurm info:
+#!/bin/bash
+#################### Total Nodes #########################
+## This is an script template designed for ease of use  ##
+## With a job distribution based on the number of nodes ##
+## a person would like and how many tasks they would    ##
+## like on each node.                                   ##
+##      Total-Procs == nodes*ntasks-per-node            ##
+##########################################################
+
+#SBATCH --ntasks-per-node=2 ##this just gives you 1 CPU cores per task for now
+
+job name: GalileanExoMoons
+
+
+8/24/2023:
+fix environment, email kenny for environment files
+
+surface_input.py in downloads is original, i will fix the one in Stokes and see what happens
+
+
+  File "surface_input.py", line 26, in <module>
+    for i in range( uniq ):
+TypeError: '_io.TextIOWrapper' object cannot be interpreted as an integer
+
+note: look over structure of .py file
+find out how dap.in will look like so it runs
+find out how tf the for loop can just go through each file name instead of each LETTER in the file names
+
+make sure dap.in 
+- in script: its submitting srfc in dap.in instead of surface itself
+- adjust script so it includes quotes " or ' in name
+- thought it ran but it crashed??
+
+
+
+10/5/23:
+# test with 'test_list.txt' and other versions with a few more file
+# files that were ran in srfc_list
+
+failed jobs that were returned:
+	- 4639161
+	- 4639164
+
+
+10/6/2023:
+# issue isn't with script, issue is with file that reads my data or smth
+# NEVERMIND, IT WAS THE FILE I TRIED TO RUN
+WAHOOOOOOOO
+it turns out ALL files need to be least > greatest (maybe not)
+
+# adjust script so it reads "folder/file_name"
+
+# matters if file name has quotations around it
+# LS -1 IS MY BEST FRIEND
+ls -1 * > *insert name of file ur creating*
+# adjust script so it adds files it ran to separate folder
+
+# files i already ran:
+snow_1.txt
+basalt.3.txt
+basalt.4.txt
+
+# re-flip these files:
+# files that were already flipped from list
+ign.mafic.9.txt
+ign.mafic.10.txt
+ign.mafic.11.txt
+ign.mafic.30.txt
+ign.mafic.31.txt
+ign.mafic.32.txt
+
+silicate.57.txt
+silicate.59.txt
+silicate.60.txt
+silicate.61.txt
+silicate.65.txt
+silicate.84.txt
+silicate.90.txt
+silicate.100.txt
+silicate.109.txt
+silicate.118.txt
+silicate.209.txt
+fine.frost.txt
+ign.mafic.14.txt
+ign.mafic.15.txt
+ign.mafic.16.txt
+ign.mafic.17.txt
+ign.mafic.18.txt
+ign.mafic.19.txt
+ign.mafic.20.txt
+ign.mafic.21.txt
+ign.mafic.23.txt
+ign.mafic.28.txt
+ign.mafic.29.txt
+
+# files i already ran:
+snow_1.txt
+basalt.3.txt
+basalt.4.txt
+
+
+10/09/2023:
+# i think i write os.listdir( *insert name of folder to run here* )
+# ls -1 and pipe into folder
+# change with listing of folder i'm working with
+# list folder name
+# once folder is done
+# in os.listdir() code block, make folder for files that were previously run and move repeated files to that folder 
+# 4:18 PM - had meeting w Kenny just now, stuff looks like it works :)
+
+
+10/12/2023:
+# ngl i'm not gonna bother w the os.listdir()
+jobs that have legit data in EARTH_clean/:
+- job.4607318.out
+- job.4638593.out
+- job.4648582.out
+- job.4648585.out
+- job.4648592.out
+- job.4648593.out
+- job.4656706.out
+- job.4656707.out
+- job.4656708.out
+- job.4656711.out
+- job.4656759.out
+- job.4656761.out
+
+
+10/13/2023:
+# add lines in fortran line 
+(so it doesn't crash)
+# my issue is the naming of fourier file?? (maybe??)
+# save more space for fourext1
+also need to save space for longest name :)
+find biggest name i renamed and change fourext1 so it makes enough space for it
+# go to headers define memory, change how many characters allowed for fourext1
+# make sure they all have same number
+# DAP/main.f at the header
+# GAP/adding.f
+# DISK/disk.f
+FIND LINE WITH WHOLE FOUREXT3, RM FOURext 3 in rdinput.f
+ 
+ g a n y m e d e
+ c a l l i s t o
+_ D a t a /
+!!! LEARN FORTRAN !!!
+
+
+11/3/2023:
+'/' will make the fourier file freak out
+easiest solution would be 
+out_d
+# call the os
+# move fourext files into output file
+main.f, move (abv)
+disk.f, : 
+
+gap: go into main.f and add line to move four file to output file
+adding.f
+
+ASK KENNY FOR all files
+
+os = CALL SYSTEM
+
+subroutine = function in fortran
+double presc = float64

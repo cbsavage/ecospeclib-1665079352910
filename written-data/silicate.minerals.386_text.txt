@@ -1,0 +1,20 @@
+Name: Orthoclase KAlSi3O8
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Coarse
+Sample No.: orthocl_3
+Owner: JHU
+Wavelength Range: TIR
+Origin: Harris Farm Mica Mine, near Oliver, Goochland Co., Virginiavia the Smithsonian (sample no. NMNH 113188)
+Collection Date: N/A
+Description: The hand sample is a single 11.97 g fragment of a single crystal.  It is twinned, translucent, light beige in color and appears very pure. Under the microscope, the sample is slightly altered to sericite, otherwise pure. Particle size was 75 - 250 Micrometers.(Framework Silicates); (Feldspar Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.coarse.orthoc3.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.coarse.tir.orthocl_3.jhu.nicolet.ancillary.txt

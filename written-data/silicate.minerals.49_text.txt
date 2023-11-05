@@ -1,0 +1,20 @@
+Name: Lizardite Mg3Si2O5(OH)4
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: lizard_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Austria via the Smithsonian (sample no. NMNH R4687),acquired from Trude King, USGS.
+Collection Date: N/A
+Description: Sample was a small amount of fine white powder.  Only one anomalous grain was noted under the microscope with high birefringence (calcite or dolomite?).  (However, the infrared spectrum does not display any carbonate bands.) XRD Analysis:  Pure lizardite; sample was too small for chemical analysis. Particle size was 0-60 micrometers, but packed powder simulates coarse.(Sheet Silicates); (Serpentine/Kaoline Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.packed.lizard1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: none

@@ -1,0 +1,20 @@
+Name: Nontronite Na0.33Fe2+3(Si,Al)4O10.3H2O
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: nontron_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Holen Hagen, Germany via the Hunt and Salisbury Collection#CMS Ng-1 (purchased from the Clay Mineral Society Repository)
+Collection Date: N/A
+Description: Brown, earthy clay. Less than 2 µm fraction is nontronite, plus a faint trace of quartz.  Larger size fraction has abundant quartz.  (Note: Quartz features do not show up in spectra of the <2 µm size fraction, either sifted or packed.)Particle size was 0-2 micrometers and Packed powder simulates coarse.(Sheet Silicates); (Smectite Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.packed.nontro1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: none

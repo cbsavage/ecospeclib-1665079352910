@@ -1,0 +1,20 @@
+Name: Bloedite Na2Mg(So4)2 * 3H2O
+Type: Mineral
+Class: Sulfate
+Subclass: None
+Particle Size: Coarse
+Sample No.: GDS147
+Owner: USGS
+Wavelength Range: All
+Origin: Soda Lake, California
+Collection Date: N/A
+Description: Bloedite powder from Soda Lake, CaliforniaSample was Unsieved coarse powder. Original ASTER Spectral Library name was usgs.perknic.mineral.sulfate.none.coarse.bloedic.spectrum.txt
+Measurement: Directional Hemispherical Reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 13.9000
+Last X Value:  0.4000
+Number of X Values: 2752
+Additional Information: none

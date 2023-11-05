@@ -1,0 +1,20 @@
+Name: Olivine (Fo92) (Fe+2,Mg)2SiO4
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Solid
+Sample No.: olivine_12
+Owner: JHU
+Wavelength Range: TIR
+Origin: Ward's Natural Science Establishment.
+Collection Date: N/A
+Description: The hand sample consisted of small, translucent green beads of green olivine a few millimeters in diameter.  Under the microscope, the sample appeared to be pure forsterite.(Isolated tetrahedra); (Olivine Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.solid.olivi12.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.solid.tir.olivine_12.jhu.nicolet.ancillary.txt

@@ -1,0 +1,20 @@
+Name: Sanidine (K,Na)Al3O8
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Solid
+Sample No.: sanidine_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Volkesfeld bei Kempenick, Eifel, Rheinland, Germany via DaveStewart, USGS
+Collection Date: N/A
+Description:  The hand sample was a large (56.16 g) fragment of what appeared to be a badly fractured single crystal. Small fragments were transparent but "smoky." The sample showed no significant contamination under the microscope. Sample had cleavage face.(Feldspar Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.solid.sanidi1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.solid.tir.sanidine_1.jhu.nicolet.ancillary.txt

@@ -1,0 +1,20 @@
+Name: Smectite Na0.33Fe2+3(Si,Al)4 O10.3H2O
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Fine
+Sample No.: smectite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Grant Co., Washington, USA via the Clay Mineral SocietySource Clay Mineral Repository #CMS SWa-1
+Collection Date: N/A
+Description:  Described by CMS as a ferruginous smectite, the sample was a brown, earthy clay. The less than 2 micrometers size fraction is pure Fe-smectite (probably nontronite).  The larger size fraction contains a small amount of quartz and was discarded.(Sheet silicates); Smectite GroupSample particle size was less than 2  Micrometers. Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.powder.smecti1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: none

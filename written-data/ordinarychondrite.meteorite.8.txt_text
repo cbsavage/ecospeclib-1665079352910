@@ -1,0 +1,20 @@
+Name: ALHA 77299
+Type: Meteorites
+Class: Ordinary Chondrite
+Subclass: H3
+Particle Size: Fine
+Sample No.: ALHA77299
+Owner: JHU
+Wavelength Range: TIR
+Origin: Smithsonian sample No. USNM ALHA 77299.17.
+Collection Date: N/A
+Description:  Stony Meteorites. Meteorite found in Antarctica in 1977.  Particle size was 0-75 micrometers. Original ASTER Spectral Library name was jhu.becknic.meteorite.chondrite.h3.fine.a77299.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0440
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: none

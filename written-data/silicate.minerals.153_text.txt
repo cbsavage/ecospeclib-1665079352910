@@ -1,0 +1,20 @@
+Name: Chrysotile Mg3Si2O5(OH)4
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Fine
+Sample No.: chrysotile_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Smithsonian NMNH 91197; Sample from Kaapsche Hoop,Barberton, Transvaal (E), South Africa.
+Collection Date: N/A
+Description:  The hand sample was fibrous, asbestiform. The sample was relatively clean and sample portions with dust adhering were discarded.  The remainder was a fibrous white mass weighing approximately 2.35 g.  Aside from adhering dust, the sample showed no contamination.  The sample appears to be pure chrysotile under the microscope. Sample particle size was less than 2 Micrometers. (sheet silicates) (Serpentine/Kaplin Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.powder.chryso1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.phyllosilicate.fine.tir.chrysotile_1.jhu.nicolet.ancillary.txt

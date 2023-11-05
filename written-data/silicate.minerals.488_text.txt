@@ -1,0 +1,20 @@
+Name: Orthoclase (Feldspar) (K,Na)AlSi_3O_8
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Fine
+Sample No.: TS-12A
+Owner: JPL
+Wavelength Range: TIR
+Origin: India
+Collection Date: N/A
+Description: Particle size was 0-45um.Collected by Burminco Original ASTER Spectral Library name was jpl.nicolet.mineral.silicate.tectosilicate.fine.ts12a.spectrum.txt
+Measurement: Hemispherical reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 15.3853
+Last X Value:  2.0003
+Number of X Values: 2256
+Additional Information: mineral.silicate.tectosilicate.fine.tir.ts-12a.jpl.nicolet.ancillary.txt

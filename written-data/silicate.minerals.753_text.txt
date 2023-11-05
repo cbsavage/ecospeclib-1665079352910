@@ -1,0 +1,20 @@
+Name: Rhodonite (Mn,Ca)SiO_3
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Fine
+Sample No.: IN-1A
+Owner: JPL
+Wavelength Range: VSWIR
+Origin: USA, California, Fresno County.
+Collection Date: N/A
+Description: Particle size was 0-45um.Collected by:  Burminco Original ASTER Spectral Library name was jpl.perkin.mineral.silicate.inosilicate.fine.in01a.spectrum.txt
+Measurement: Hemispherical reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value:  2.5000
+Last X Value:  0.4000
+Number of X Values: 2101
+Additional Information: mineral.silicate.inosilicate.fine.vswir.in-1a.jpl.perkin.ancillary.txt

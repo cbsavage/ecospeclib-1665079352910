@@ -1,0 +1,20 @@
+Name: Clinochlore (Chlorite) (Mg,Al)_6(Si,Al)_4O_10(OH)_8
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Medium
+Sample No.: PS-12A
+Owner: JPL
+Wavelength Range: TIR
+Origin: USA, California, El Dorado County, Flagstaff Hill
+Collection Date: N/A
+Description: Particle size was 45-125um.Collected by Clay Mineral Society Original ASTER Spectral Library name was jpl.nicolet.mineral.silicate.phyllosilicate.medium.ps12a.spectrum.txt
+Measurement: Hemispherical reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 15.3853
+Last X Value:  2.0003
+Number of X Values: 2256
+Additional Information: mineral.silicate.phyllosilicate.medium.tir.ps-12a.jpl.nicolet.ancillary.txt

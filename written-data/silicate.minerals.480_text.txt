@@ -1,0 +1,20 @@
+Name: Nepheline (Na,K)AlSiO4
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Fine
+Sample No.: nephel_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Brevig, Norway via Norma Vergo
+Collection Date: N/A
+Description: The hand sample was a massive chunk of unusually dark gray nepheline, weighing 15 g.  Under the microscope, the sample appeared to be almost entirely pure nepheline, although many grains showed fluid inclusions.  Particle size was Less than 2 Micrometers.(Framework Silicates); (Feldspathoid Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.powder.nephel2.spectrum.txt
+Measurement: Tansmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.fine.tir.nephel_2.jhu.nicolet.ancillary.txt

@@ -1,0 +1,20 @@
+Name: Sodalite Na8Al6Si6O24Cl2
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Fine
+Sample No.: sodalite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Bancroft, Ontario, Canada via Norma Vergo.
+Collection Date: N/A
+Description:  The hand sample was a large chunk of vivid blue sodalite that appeared quite pure. Microscopic examination showed about 2% contamination with either a colorless mineral with 1degree yellow birefringence, or another colorless mineral with slight brownish staining, 2 degrees birefringence, and 2 directions of cleavage. One observed contaminant was a carbonate. Particle size was Less than 2 Micrometers. (Framework silicates); Feldspathoid Group Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.powder.sodali1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.fine.tir.sodalite_1.jhu.nicolet.ancillary.txt

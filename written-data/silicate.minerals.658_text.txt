@@ -1,0 +1,20 @@
+Name: Zoisite (var. tanzanite) Ca2Al3(SiO4)3(OH)
+Type: Mineral
+Class: Silicate
+Subclass: None
+Particle Size: Coarse
+Sample No.: zoisite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Arusha, Tanzania via the Smithsonian (sample no. NMNH126029)
+Collection Date: N/A
+Description: The sample consisted of five euhedral, violet-blue crystals, with some clay material and mica adhering to a few surfaces.  Each crystal was about 7 mm x 10 mm, with a total weight of 5.9 g.  After removal of the coating material and crushing, microscopic examination showed about 1% brown alteration material, but otherwise the sample appeared pure. Particle size was 75 - 250 Micrometers. Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.sorosilicate.coarse.zoisit1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: None

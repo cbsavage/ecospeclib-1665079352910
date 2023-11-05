@@ -1,0 +1,20 @@
+Name: Anorthite CaAl2Si2O8
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Fine
+Sample No.: anorthite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Sample from Bruce Hemingway, USGS; synthesized by JamesWoodhead, Princeton University.
+Collection Date: N/A
+Description: The sample was a coarse white powder.  The sample appears pure under the microscope, with very fine (cryptocrystalline) texture. Particle size was less than 2 Micrometers.(Synthetic)(Framework silicates) (Feldspar Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.powder.anorth1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.fine.tir.anorthite_1.jhu.nicolet.ancillary.txt

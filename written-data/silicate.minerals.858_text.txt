@@ -1,0 +1,20 @@
+Name: Grossular Ca3Al2(Si04)3
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Coarse
+Sample No.: grossul_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Sample from Pear Gillis Farm, Beach Glen, Buncombe Co.,North Carolina via the Smithsonian (sample no. NMNH 155371).
+Collection Date: N/A
+Description: The sample was a spherical cluster of small crystals about 1.5 cm in diameter.  Green interstitial material, probably diopside, occurred between many small brown euhedral crystals of grossular, which were hand-picked from the crushed sample.  Under the petrographic microscope, a very small amount of alteration of grossular crystals was seen. Particle size was 74-250 Micrometers. (Isolated Tetrahedra); Garnet Group Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.coarse.grossu2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.coarse.tir.grossul_2.jhu.nicolet.ancillary.txt

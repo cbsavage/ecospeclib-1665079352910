@@ -1,0 +1,20 @@
+Name: Chabazite CaAl2Si4O12.6H2O
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Solid
+Sample No.: chabazite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: W. J. Ehmann #40; from Kyogle, N.S.W., Australia.
+Collection Date: N/A
+Description: The sample was a white crystalline mass.  Petrographically the sample appears to be pure chabazite. Sample had cleavage face.(Framework silicates) (Zeolite Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.solid.chabaz1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.solid.tir.chabazite_1.jhu.nicolet.ancillary.txt

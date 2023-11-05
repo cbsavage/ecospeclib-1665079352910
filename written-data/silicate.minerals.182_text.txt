@@ -1,0 +1,20 @@
+Name: Ferroaxinite Ca_2Fe^2+Al_2BSi_4O_15(OH)
+Type: Mineral
+Class: Silicate
+Subclass: Cyclosilicate
+Particle Size: Medium
+Sample No.: CS-4A
+Owner: JPL
+Wavelength Range: VSWIR
+Origin: Mexico, Baja California Norte, Los Gavelontos
+Collection Date: N/A
+Description: Particle size was 45-125um.Collected by Ward's Original ASTER Spectral Library name was jpl.beckman.mineral.silicate.cyclosilicate.medium.cs04a.spectrum.txt
+Measurement: Hemispherical reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value:  0.4000
+Last X Value:  2.5000
+Number of X Values: 826
+Additional Information: mineral.silicate.cyclosilicate.medium.vswir.cs-4a.jpl.beckman.ancillary.txt

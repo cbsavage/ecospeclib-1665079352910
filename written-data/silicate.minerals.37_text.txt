@@ -1,0 +1,20 @@
+Name: Biotite K(Mg,Fe+2)3(Al,Fe+3)Si3O10(OH,F)2
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: biotite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Source Smithsonian NMNH 78303 Sample from Wakefield,Quebec, Canada. 
+Collection Date: N/A
+Description: Sample consisted of four large (5 cm x 5 cm x 3 cm) pieces of a single hexagonal "book" weighing 15.7 g. A 1 mm sample was dark brown in color, while a thin cleavage flake was tan. Despite the high magnesium content (see ancillary file), cleavage surfaces do not display the coppery glint typical of phlogopite. Sample was pure except for a very few (much less than 1%) opaque inclusions. Particle size was 74-250 Micrometers. (Mica Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.coarse.biotit1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.phyllosilicate.coarse.tir.biotite_1.jhu.nicolet.ancillary.txt

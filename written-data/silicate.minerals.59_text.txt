@@ -1,0 +1,20 @@
+Name: Phlogopite KMg3Si3AlO10(F, OH)2
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: phlogop_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Ontario, Canada via the Hunt and Salisbury Collection #23B
+Collection Date: N/A
+Description: This second sample of phlogopite also displayed the typical coppery luster of its micaceous sheets.  It appeared pure in hand sample and under the microscope. Particle size was 75 - 250  Micrometers.(Sheet Silicates); (Mica Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.coarse.phlogo2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.phyllosilicate.coarse.tir.phlogop_2.jhu.nicolet.ancillary.txt

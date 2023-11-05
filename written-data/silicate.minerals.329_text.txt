@@ -1,0 +1,20 @@
+Name: Vesuvianite Ca10Mg2Al4(SiO4)5(Si2O7)2(OH)4
+Type: Mineral
+Class: Silicate
+Subclass: Sorosilicate
+Particle Size: Fine
+Sample No.: vesuvian_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Quebec, Canada via Norma Vergo
+Collection Date: N/A
+Description:  The sample was a massive piece of striated, green, columnar aggregate. It appeared to be pure vesuvianite in hand sample and under the microscope.Particle size was less than 2 Micrometers. Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.sorosilicate.powder.vesuvi1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: None

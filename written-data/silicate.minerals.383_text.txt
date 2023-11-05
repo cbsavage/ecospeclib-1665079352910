@@ -1,0 +1,20 @@
+Name: Mordenite (Ca,Na2,K2)Al2Si10O24.7H2O
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Coarse
+Sample No.: morden_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Union Pass, Arizona via W. J. Ehmann #10
+Collection Date: N/A
+Description: The sample consisted of small transparent crystals of apparent purity. Particle size was 75-250  Micrometers.(Framework Silicates); (ZeoliteGroup) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.coarse.morden1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.coarse.tir.morden_1.jhu.nicolet.ancillary.txt

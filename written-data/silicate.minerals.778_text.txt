@@ -1,0 +1,20 @@
+Name: Cordierite Mg2Al4Si5O18
+Type: Mineral
+Class: Silicate
+Subclass: Cyclosilicate
+Particle Size: Coarse
+Sample No.: cordier_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Sample from Orijarvi, Finland via the Smithsonian  (sampleno. NMNH 78228). 
+Collection Date: N/A
+Description: The sample consists of three pieces, each about 2 cm x 4 cm x 1 cm.  There are some heterogeneities in color, but the samples are predominantly blue-gray.  They appear fairly pure, but do have a few veins with discoloration along them.  Under the petrographic microscope all samples appear to be cordierite, but grains have a small amount of alteration and some microcrystalline inclusions. Particle size was 74-250 Micrometers.(Ring Silicates) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.cyclosilicate.coarse.cordie2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.cyclosilicate.coarse.tir.cordier_2.jhu.nicolet.ancillary.txt

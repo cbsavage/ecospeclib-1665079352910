@@ -1,0 +1,20 @@
+Name: Olivine (Fo11) (Fe+2,Mg)2SiO4
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Coarse
+Sample No.: olivine_10
+Owner: JHU
+Wavelength Range: TIR
+Origin: Twin Sisters Peak, Washington via Trude King #TSD
+Collection Date: N/A
+Description: Olivine from the Twin Sisters intrusive was optically examined using a petrographic icroscope prior to spectral measurements to insure purity of the olivine.  The sample was >98% pure olivine.  It was hand ground and wet sieved into <60 µm size range.  Particle size was 0-60 micrometers, but packed powder simulates coarse. Sample preparation was by Trude King, USGS, Denver.(Isolated tetrahedra); (Olivine Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.packed.olivi10.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: None

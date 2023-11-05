@@ -1,0 +1,20 @@
+Name: Topaz Al2SiO4(F,OH)2
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Fine
+Sample No.: topaz_3
+Owner: JHU
+Wavelength Range: TIR
+Origin: Durango, Mexico via Don Hoover, USGS
+Collection Date: N/A
+Description: The sample was composed of several different colorless crystal fragments, each less than a centimeter on a side. Petrographically the sample appeared to be clean and free of obvious fluid inclusions. Particle size was Less than 2  Micrometers.(Isolated tetrahedra) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.nesosilicate.powder.topaz3.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.fine.tir.topaz_3.jhu.nicolet.ancillary.txt

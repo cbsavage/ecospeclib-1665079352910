@@ -1,0 +1,20 @@
+Name: Saponite (Ca/2,Na)0.33(Mg,Fe+2)3(Si,Al)4O10(OH)2.H2O
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: saponite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Ballarat, California, USA via the Hunt and Salisbury Collection#CMS SapCa-1 (purchased from the Clay Mineral Society Repository)
+Collection Date: N/A
+Description:  Sample was a cream-colored, earthy clay. The less than 2 micrometers size fraction is saponite with a trace of unknown material with X-ray peaks at 8.6, 3.26 and 3.14 angstroms.  The coarser fraction contains quartz and was discarded.Particle size was 0-2 micrometers and Packed powder simulates coarse.(Sheet silicates); Smectite Group Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.packed.saponi1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: None

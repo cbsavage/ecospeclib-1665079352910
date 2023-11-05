@@ -1,0 +1,20 @@
+Name: Muscovite KAl2(Si3Al)O10(OH,F)2
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Solid
+Sample No.: muscov_2
+Owner: JHU
+Wavelength Range: TIR
+Origin: Fremont Co., Colorado via Hunt and Salisbury Collection #146B
+Collection Date: N/A
+Description: The hand sample appeared to be pure, transparent muscovite, but microscopic analysis showed a trace (<<1%) of what appeared to be quartz.  (However, no quartz bands are apparent in the infrared spectrum).(Sheet Silicates); (MicaGroup)Sample measured was 001 face.  Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.solid.muscov2.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.phyllosilicate.solid.tir.muscov_2.jhu.nicolet.ancillary.txt

@@ -1,0 +1,20 @@
+Name: Microcline KAlSi3O8
+Type: Mineral
+Class: Silicate
+Subclass: Tectosilicate
+Particle Size: Coarse
+Sample No.: micro_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Park County, Colorado via the Smithsonian (sample no. NMNH135231)
+Collection Date: N/A
+Description: Sample was a 19.5 g fragment, light green in color. A slight amount of surface contamination was removed by brushing and ultrasonic cleaning. White material filled one thin (0.5 mm) vein cutting across one corner and was removed by hand-picking the crushed sample. Sample was not obviously perthitic.  Under the microscope it appeared pure, displaying little perthite or alteration. Particle size was 75-250 micrometers.(Framework Silicates); (Feldspar Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.tectosilicate.coarse.micro1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.tectosilicate.coarse.tir.micro_1.jhu.nicolet.ancillary.txt

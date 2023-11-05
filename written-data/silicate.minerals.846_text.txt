@@ -1,0 +1,20 @@
+Name: Riebeckite Na2(Fe+2,Mg)3Fe2+3Si8O22(OH)2
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Solid
+Sample No.: riebeck_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Hurricane Mountain, Conway, New Hampshire via theSmithsonian (sample no. NMNH 122689)
+Collection Date: N/A
+Description: The sample was an 11.54 g portion of a black crystal.  The crystal displayed a small amount of surficial limonitic stain, which could be brushed off.  The crushed sample was hand-picked to avoid grains containing small crystals of included quartz.  The resultant sample appeared very pure under the microscope (<1% impurities). Sample had cleavage face. (chain silicates); (Amphibole Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.inosilicate.solid.riebec1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.inosilicate.solid.tir.riebeck_1.jhu.nicolet.ancillary.txt

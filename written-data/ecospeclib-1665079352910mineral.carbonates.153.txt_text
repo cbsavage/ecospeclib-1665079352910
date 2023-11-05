@@ -1,0 +1,20 @@
+Name: Dolomite CaMg(CO3)2
+Type: Mineral
+Class: Carbonate
+Subclass: None
+Particle Size: Solid
+Sample No.: dolomite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Sample from Oberdorf, Styria, Austria via the Smithsonian(sample no. NMNH R12596).  
+Collection Date: N/A
+Description:  The sample was a single white crystal, 3 cm x 2 cm x 2 cm and 29 g, showing good cleavage.  No impurities or alteration were visible in hand sample.  Under the microscope it appears very pure and unaltered. Sample measured had cleavage face. Original ASTER Spectral Library name was jhu.nicolet.mineral.carbonate.none.solid.dolomi1.spectrum.txt
+Measurement: Bidirectional reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.carbonate.none.solid.tir.dolomite_1.jhu.nicolet.ancillary.txt

@@ -1,0 +1,20 @@
+Name: Tremolite Ca2(Mg, Fe+2)5Si8O22(OH)2
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Fine
+Sample No.: tremol_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Balmat, New York, USA via Bruce Hemingway, USGS
+Collection Date: N/A
+Description: The sample consisted of 2-3 cm long x 1-2 cm wide mass of white tremolite crystals.  The sample appeared pure in hand specimen and under the microscope. (Chain Silicates); (Amphibole Group)Particle size was Less than 2  Micrometers. Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.inosilicate.powder.tremol1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.inosilicate.fine.tir.tremol_1.jhu.nicolet.ancillary.txt

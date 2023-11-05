@@ -1,0 +1,20 @@
+Name: Kyanite Al2SiO5
+Type: Mineral
+Class: Silicate
+Subclass: Nesosilicate
+Particle Size: Fine
+Sample No.: kyanite_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Brazil (?) via the Smithsonian (sample no. NMNH 139740)
+Collection Date: N/A
+Description: The sample consisted of two blue crystals, each about 1.5 cm x 0.4 cm x 0.4 cm in size.  Both displayed a very small amount of brown coating (limonite?), which could be scraped off or picked out after initial crushing of the crystals.  Under the microscope, the resulting sample appears pure and unaltered. Particle size was Less than 2 Micrometers.(Isolated Tetrahedra); (Al2SiO5 Group) Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.phyllosilicate.powder.kyanit1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.nesosilicate.fine.tir.kyanite_1.jhu.nicolet.ancillary.txt

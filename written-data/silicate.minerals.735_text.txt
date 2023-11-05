@@ -1,0 +1,20 @@
+Name: Spodumene LiAlSi2O6
+Type: Mineral
+Class: Silicate
+Subclass: Inosilicate
+Particle Size: Fine
+Sample No.: spodum_1
+Owner: JHU
+Wavelength Range: TIR
+Origin: Anita Mine, Pala Chief Hill, Pala, San Diego Co., California, USAvia the Smithsonian (sample no. NMNH 12430-1)
+Collection Date: N/A
+Description: The hand sample was 3 cm x 1 cm x 1 cm, transparent, with a small amount of iron staining.  No foreign material was noted under the microscope.(Framework silicates); Pyroxene GroupParticle size was Less than 2 Micrometers.  Original ASTER Spectral Library name was jhu.nicolet.mineral.silicate.inosilicate.powder.spodum1.spectrum.txt
+Measurement: Transmission
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Transmittance (percent)
+First X Value: 25.0442
+Last X Value:  2.0795
+Number of X Values: 2287
+Additional Information: mineral.silicate.inosilicate.fine.tir.spodum_1.jhu.nicolet.ancillary.txt

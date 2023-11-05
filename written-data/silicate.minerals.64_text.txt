@@ -1,0 +1,20 @@
+Name: Chlorite (Mg,Al)_6(Si,Al)_4O_10(OH)_8
+Type: Mineral
+Class: Silicate
+Subclass: Phyllosilicate
+Particle Size: Coarse
+Sample No.: PS-12C
+Owner: JPL
+Wavelength Range: TIR
+Origin: USA, California
+Collection Date: N/A
+Description: Particle size was 125-500um.Collected by Ward's Original ASTER Spectral Library name was jpl.nicolet.mineral.silicate.phyllosilicate.coarse.ps12c.spectrum.txt
+Measurement: Hemispherical reflectance
+First Column: X
+Second Column: Y
+X Units: Wavelength (micrometers)
+Y Units:Reflectance (percent)
+First X Value: 15.3853
+Last X Value:  2.0003
+Number of X Values: 2256
+Additional Information: mineral.silicate.phyllosilicate.coarse.tir.ps-12c.jpl.nicolet.ancillary.txt
