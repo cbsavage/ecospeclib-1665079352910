@@ -244,3 +244,11 @@ os = CALL SYSTEM
 
 subroutine = function in fortran
 double presc = float64
+
+go thru all files for memory allocated for longest name
+in fourext,
+four_1, four_2
+
+longest character title possible plus fourier file name
+
+example: 10 for folder+file name and 30 for fourier file
