@@ -252,3 +252,45 @@ four_1, four_2
 longest character title possible plus fourier file name
 
 example: 10 for folder+file name and 30 for fourier file
+
+
+
+
+12/15/2023:
+
+$ cat job.4658129.out
+
+...
+...
+At line 62 of file DISK/disk.f (unit = 43, file = 'four_bas_00_000_0420.dat')
+Fortran runtime error: Bad integer for item 1 in list input
+
+
+- ran python script for files in list, seems to have worked:
+
+$ python3 surface_input.py
+basalt_0.txt
+Submitted batch job 4713875
+basalt_1.txt
+Submitted batch job 4713876
+basalt_2.txt
+Submitted batch job 4713877
+basalt_5.txt
+Submitted batch job 4713878
+basalt_7.txt
+Submitted batch job 4713880
+
+$ python3 surface_input.py
+andesite_1.txt
+Submitted batch job 4713883
+andesite_3.txt
+Submitted batch job 4713884
+andesite_4.txt
+Submitted batch job 4713885
+andesite_5.txt
+Submitted batch job 4713886
+andesite_7.txt
+Submitted batch job 4713887
+andesite_8.txt
+Submitted batch job 4713888
+***LAST WORKED ON***
