@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt              # load plotting module
 with open( 'test_list.txt', 'r' ) as uniq:
    srfc_list = uniq.read().splitlines()
 
-# test with 'test_list.txt' and other versions with a few more file 
+# test with 'test_list.txt' and other versions with a few more files
 # use open and write full thing 
 # files that were ran in srfc_list
 # print( srfc_list )
